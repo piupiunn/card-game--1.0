@@ -66,7 +66,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Magic Match</h1>
+      <h1>Caner Demir Magic Match</h1>
 
       <button onClick={shuffleCards}>New Game</button>
 
